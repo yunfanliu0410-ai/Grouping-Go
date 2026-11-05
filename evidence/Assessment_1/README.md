@@ -1,8 +1,5 @@
 # Assessment 1 / 任务一证据资料
 
-This folder contains the three files previously uploaded directly under `evidence/`. They have been moved without changing their contents.
-
-此文件夹存放此前误放在 evidence 根目录的3个文件；本次仅调整位置，未修改文件内容。PPT不上传。
 
 | File / 文件 | Purpose / 用途 |
 |---|---|
