@@ -13,7 +13,7 @@ Each member expresses preferences and practical limits. The proposed workflow co
 | Contributions and assigned roles | [Contribution Record](evidence/registers/Contribution_Record.md) |
 | Version history | [Version History](evidence/registers/Version_History.md) |
 | Questionnaire data and reproducible results | [Survey evidence](evidence/research/survey/README.md) |
-| Assessment 1 material status | [Assessment material status](assessment1/README.md) |
+| Assessment 1 material status | [Assessment 1 evidence](evidence/Assessment_1/README.md) |
 | Prototype capabilities and boundaries | [Implementation status](evidence/prototype/implementation-status.md) |
 | Decisions, gaps and next actions | [Decision / Action Log](evidence/registers/Decision_Action_Log.md) |
 

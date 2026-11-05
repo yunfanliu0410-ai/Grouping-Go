@@ -11,3 +11,5 @@
 GitHub commits begin at actual repository import. They do not represent earlier work dates. Earlier chronology is based on retained source artefacts and remains subject to team verification. The manifest records SHA-256 checksums; newer imports should append entries rather than silently rewrite substantive data.
 
 2026-11-05 owner steering: omit all PPT files and include a full-questionnaire Excel public copy (34 questions, 156 rows, submission metadata removed).
+
+2026-11-05 repository organisation: moved the three files uploaded directly under evidence/ into evidence/Assessment_1/. File contents are unchanged; canonical survey data and analysis paths remain available. Navigation links updated. No PPT uploaded.

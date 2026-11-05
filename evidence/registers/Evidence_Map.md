@@ -12,7 +12,7 @@ The `HUB-` namespace is this repository's navigation index. It does not replace 
 | HUB-006 | TAM/SAM/SOM | Same source index and formulas | Assumptions / target, not measured demand | Market workstream; confirm named owner |
 | HUB-007 | Three real alternatives and proposed USP | Same source index | Feature descriptions; superiority untested | Validation workstream |
 | HUB-008 | Business model / contribution scenarios | Same source index and equations | No payer validation or realised revenue | Business-model workstream |
-| HUB-009 | Six-slide pitch | [Assessment status](../../assessment1/README.md) | Supplied content + visual refinement; not submitted/approved | Team review pending |
+| HUB-009 | Six-slide pitch | [Assessment 1 evidence](../Assessment_1/README.md) | Supplied content + visual refinement; not submitted/approved | Team review pending |
 | HUB-010 | Eight assigned team roles | [Contribution record](Contribution_Record.md) | Assigned roles, not verified completed contributions | Each member to confirm |
 | HUB-011 | Code/data packaging provenance | [Source manifest](Source_Manifest.csv), [version history](Version_History.md) | Actual migration date 2026-11-05; no backdated activity | Repository owner + AI assistance |
 
