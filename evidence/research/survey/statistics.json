@@ -1,0 +1,23 @@
+{
+  "main": {
+    "responses": 132,
+    "preference_conflict": 96,
+    "missed_shared_stop": 72,
+    "difficulty_3_or_4": 66,
+    "numeric_minutes": 121,
+    "median_minutes": 25.0,
+    "coordination_attributed_missed": 44,
+    "trial_interest": 121
+  },
+  "deck_subset": {
+    "responses": 38,
+    "preference_conflict": 27,
+    "missed_shared_stop": 16,
+    "difficulty_3_or_4": 17,
+    "numeric_minutes": 31,
+    "median_minutes": 30.0,
+    "coordination_attributed_missed": 12,
+    "trial_interest": 36
+  },
+  "subset_same_group_unsure": 19
+}
