@@ -46,4 +46,4 @@ The script uses only Python's standard library and checks the deck's 38-response
 
 This repository is public at the owner's request. It publishes a minimised analytic survey extract, not the original questionnaire export. IPs, exact timestamps, completion durations, recruitment channels, detailed locations, group codes and open answers are not included. Original files remain in the team's restricted local archive for controlled verification.
 
-Initial repository preparation: **5 November 2026**. This is a migration date, not the date all project work occurred. See the contribution and AI-use records for what is established and what remains unverified.
+Initial repository preparation: **1 November 2026**. This is a migration date, not the date all project work occurred. See the contribution and AI-use records for what is established and what remains unverified.
