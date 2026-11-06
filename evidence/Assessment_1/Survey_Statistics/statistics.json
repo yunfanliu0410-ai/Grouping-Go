@@ -1,0 +1,1426 @@
+{
+  "input_file": "Full_Responses_Public.csv",
+  "input_sha256": "7612136aad88ce32a0d1348be25ff53b4bd14bed3a5239b4baa0d8a2fbe96163",
+  "total_submissions": 156,
+  "screening": [
+    {
+      "stage": "consent_q1",
+      "entering": 156,
+      "excluded": 5,
+      "excluded_ids": [
+        "R002",
+        "R004",
+        "R027",
+        "R039",
+        "R040"
+      ],
+      "remaining": 151
+    },
+    {
+      "stage": "adult_q2",
+      "entering": 151,
+      "excluded": 0,
+      "excluded_ids": [],
+      "remaining": 151
+    },
+    {
+      "stage": "self_reported_eligible_outing_q3",
+      "entering": 151,
+      "excluded": 8,
+      "excluded_ids": [
+        "R013",
+        "R014",
+        "R121",
+        "R122",
+        "R123",
+        "R124",
+        "R125",
+        "R126"
+      ],
+      "remaining": 143
+    },
+    {
+      "stage": "group_chose_a_stop_q4",
+      "entering": 143,
+      "excluded": 0,
+      "excluded_ids": [],
+      "remaining": 143
+    },
+    {
+      "stage": "involved_in_route_decision_q5",
+      "entering": 143,
+      "excluded": 11,
+      "excluded_ids": [
+        "R010",
+        "R091",
+        "R092",
+        "R093",
+        "R094",
+        "R095",
+        "R096",
+        "R097",
+        "R098",
+        "R099",
+        "R100"
+      ],
+      "remaining": 132
+    }
+  ],
+  "main": {
+    "responses": 132,
+    "ids": [
+      "R001",
+      "R003",
+      "R005",
+      "R006",
+      "R007",
+      "R008",
+      "R009",
+      "R011",
+      "R012",
+      "R015",
+      "R016",
+      "R017",
+      "R018",
+      "R019",
+      "R020",
+      "R021",
+      "R022",
+      "R023",
+      "R024",
+      "R025",
+      "R026",
+      "R028",
+      "R029",
+      "R030",
+      "R031",
+      "R032",
+      "R033",
+      "R034",
+      "R035",
+      "R036",
+      "R037",
+      "R038",
+      "R041",
+      "R042",
+      "R043",
+      "R044",
+      "R045",
+      "R046",
+      "R047",
+      "R048",
+      "R049",
+      "R050",
+      "R051",
+      "R052",
+      "R053",
+      "R054",
+      "R055",
+      "R056",
+      "R057",
+      "R058",
+      "R059",
+      "R060",
+      "R061",
+      "R062",
+      "R063",
+      "R064",
+      "R065",
+      "R066",
+      "R067",
+      "R068",
+      "R069",
+      "R070",
+      "R071",
+      "R072",
+      "R073",
+      "R074",
+      "R075",
+      "R076",
+      "R077",
+      "R078",
+      "R079",
+      "R080",
+      "R081",
+      "R082",
+      "R083",
+      "R084",
+      "R085",
+      "R086",
+      "R087",
+      "R088",
+      "R089",
+      "R090",
+      "R101",
+      "R102",
+      "R103",
+      "R104",
+      "R105",
+      "R106",
+      "R107",
+      "R108",
+      "R109",
+      "R110",
+      "R111",
+      "R112",
+      "R113",
+      "R114",
+      "R115",
+      "R116",
+      "R117",
+      "R118",
+      "R119",
+      "R120",
+      "R127",
+      "R128",
+      "R129",
+      "R130",
+      "R131",
+      "R132",
+      "R133",
+      "R134",
+      "R135",
+      "R136",
+      "R137",
+      "R138",
+      "R139",
+      "R140",
+      "R141",
+      "R142",
+      "R143",
+      "R144",
+      "R145",
+      "R146",
+      "R147",
+      "R148",
+      "R149",
+      "R150",
+      "R151",
+      "R152",
+      "R153",
+      "R154",
+      "R155",
+      "R156"
+    ],
+    "budget_constraint_q17": {
+      "n": 68,
+      "denominator": 132,
+      "percent": 51.5,
+      "ids": [
+        "R001",
+        "R007",
+        "R016",
+        "R017",
+        "R018",
+        "R019",
+        "R025",
+        "R028",
+        "R029",
+        "R031",
+        "R032",
+        "R033",
+        "R035",
+        "R036",
+        "R037",
+        "R038",
+        "R041",
+        "R042",
+        "R043",
+        "R044",
+        "R046",
+        "R048",
+        "R049",
+        "R050",
+        "R051",
+        "R052",
+        "R057",
+        "R059",
+        "R060",
+        "R061",
+        "R062",
+        "R064",
+        "R065",
+        "R067",
+        "R072",
+        "R073",
+        "R074",
+        "R075",
+        "R076",
+        "R078",
+        "R082",
+        "R084",
+        "R086",
+        "R088",
+        "R089",
+        "R102",
+        "R103",
+        "R106",
+        "R107",
+        "R109",
+        "R111",
+        "R114",
+        "R127",
+        "R128",
+        "R129",
+        "R130",
+        "R132",
+        "R133",
+        "R135",
+        "R136",
+        "R137",
+        "R138",
+        "R139",
+        "R147",
+        "R148",
+        "R149",
+        "R154",
+        "R155"
+      ]
+    },
+    "available_time_constraint_q17": {
+      "n": 71,
+      "denominator": 132,
+      "percent": 53.8,
+      "ids": [
+        "R003",
+        "R005",
+        "R006",
+        "R008",
+        "R012",
+        "R016",
+        "R017",
+        "R019",
+        "R020",
+        "R025",
+        "R028",
+        "R029",
+        "R033",
+        "R034",
+        "R035",
+        "R037",
+        "R038",
+        "R043",
+        "R047",
+        "R056",
+        "R058",
+        "R060",
+        "R061",
+        "R065",
+        "R068",
+        "R069",
+        "R071",
+        "R073",
+        "R074",
+        "R075",
+        "R081",
+        "R082",
+        "R083",
+        "R084",
+        "R086",
+        "R087",
+        "R088",
+        "R089",
+        "R101",
+        "R102",
+        "R103",
+        "R104",
+        "R105",
+        "R108",
+        "R109",
+        "R111",
+        "R112",
+        "R116",
+        "R118",
+        "R119",
+        "R120",
+        "R127",
+        "R128",
+        "R131",
+        "R132",
+        "R134",
+        "R136",
+        "R138",
+        "R140",
+        "R141",
+        "R142",
+        "R143",
+        "R144",
+        "R145",
+        "R147",
+        "R148",
+        "R149",
+        "R150",
+        "R151",
+        "R154",
+        "R156"
+      ]
+    },
+    "q17_multiselect_counts": {
+      "预算": 68,
+      "可用时间": 71,
+      "兴趣或活动偏好": 69,
+      "步行能力或步行承受度": 59,
+      "地点营业时间": 60
+    },
+    "preference_conflict_q19": 96,
+    "missed_shared_stop_q21": 72,
+    "coordination_main_cause_q23": {
+      "n": 44,
+      "conditional_denominator": 72
+    },
+    "coordination_minutes_q15": {
+      "numeric_n": 121,
+      "median": 25.0,
+      "zero_count": 29,
+      "response_minutes": [
+        {
+          "id": "R001",
+          "minutes": 40.0
+        },
+        {
+          "id": "R003",
+          "minutes": 30.0
+        },
+        {
+          "id": "R005",
+          "minutes": 30.0
+        },
+        {
+          "id": "R006",
+          "minutes": 30.0
+        },
+        {
+          "id": "R007",
+          "minutes": 0.0
+        },
+        {
+          "id": "R008",
+          "minutes": 30.0
+        },
+        {
+          "id": "R009",
+          "minutes": 30.0
+        },
+        {
+          "id": "R011",
+          "minutes": 30.0
+        },
+        {
+          "id": "R012",
+          "minutes": 60.0
+        },
+        {
+          "id": "R016",
+          "minutes": 50.0
+        },
+        {
+          "id": "R017",
+          "minutes": 40.0
+        },
+        {
+          "id": "R018",
+          "minutes": 15.0
+        },
+        {
+          "id": "R019",
+          "minutes": 55.0
+        },
+        {
+          "id": "R020",
+          "minutes": 55.0
+        },
+        {
+          "id": "R021",
+          "minutes": 55.0
+        },
+        {
+          "id": "R022",
+          "minutes": 0.0
+        },
+        {
+          "id": "R023",
+          "minutes": 45.0
+        },
+        {
+          "id": "R024",
+          "minutes": 55.0
+        },
+        {
+          "id": "R025",
+          "minutes": 0.0
+        },
+        {
+          "id": "R026",
+          "minutes": 60.0
+        },
+        {
+          "id": "R028",
+          "minutes": 20.0
+        },
+        {
+          "id": "R029",
+          "minutes": 30.0
+        },
+        {
+          "id": "R030",
+          "minutes": 0.0
+        },
+        {
+          "id": "R031",
+          "minutes": 60.0
+        },
+        {
+          "id": "R032",
+          "minutes": 10.0
+        },
+        {
+          "id": "R033",
+          "minutes": 0.0
+        },
+        {
+          "id": "R034",
+          "minutes": 10.0
+        },
+        {
+          "id": "R035",
+          "minutes": 40.0
+        },
+        {
+          "id": "R036",
+          "minutes": 0.0
+        },
+        {
+          "id": "R037",
+          "minutes": 50.0
+        },
+        {
+          "id": "R038",
+          "minutes": 15.0
+        },
+        {
+          "id": "R041",
+          "minutes": 0.0
+        },
+        {
+          "id": "R042",
+          "minutes": 15.0
+        },
+        {
+          "id": "R043",
+          "minutes": 10.0
+        },
+        {
+          "id": "R044",
+          "minutes": 45.0
+        },
+        {
+          "id": "R045",
+          "minutes": 55.0
+        },
+        {
+          "id": "R046",
+          "minutes": 0.0
+        },
+        {
+          "id": "R047",
+          "minutes": 15.0
+        },
+        {
+          "id": "R048",
+          "minutes": 60.0
+        },
+        {
+          "id": "R049",
+          "minutes": 20.0
+        },
+        {
+          "id": "R050",
+          "minutes": 0.0
+        },
+        {
+          "id": "R051",
+          "minutes": 10.0
+        },
+        {
+          "id": "R052",
+          "minutes": 0.0
+        },
+        {
+          "id": "R053",
+          "minutes": 25.0
+        },
+        {
+          "id": "R054",
+          "minutes": 15.0
+        },
+        {
+          "id": "R055",
+          "minutes": 30.0
+        },
+        {
+          "id": "R056",
+          "minutes": 20.0
+        },
+        {
+          "id": "R057",
+          "minutes": 60.0
+        },
+        {
+          "id": "R058",
+          "minutes": 30.0
+        },
+        {
+          "id": "R059",
+          "minutes": 20.0
+        },
+        {
+          "id": "R060",
+          "minutes": 0.0
+        },
+        {
+          "id": "R061",
+          "minutes": 30.0
+        },
+        {
+          "id": "R062",
+          "minutes": 10.0
+        },
+        {
+          "id": "R063",
+          "minutes": 0.0
+        },
+        {
+          "id": "R064",
+          "minutes": 25.0
+        },
+        {
+          "id": "R065",
+          "minutes": 20.0
+        },
+        {
+          "id": "R066",
+          "minutes": 10.0
+        },
+        {
+          "id": "R067",
+          "minutes": 0.0
+        },
+        {
+          "id": "R068",
+          "minutes": 45.0
+        },
+        {
+          "id": "R069",
+          "minutes": 25.0
+        },
+        {
+          "id": "R070",
+          "minutes": 0.0
+        },
+        {
+          "id": "R071",
+          "minutes": 30.0
+        },
+        {
+          "id": "R072",
+          "minutes": 0.0
+        },
+        {
+          "id": "R073",
+          "minutes": 15.0
+        },
+        {
+          "id": "R074",
+          "minutes": 20.0
+        },
+        {
+          "id": "R075",
+          "minutes": 0.0
+        },
+        {
+          "id": "R076",
+          "minutes": 20.0
+        },
+        {
+          "id": "R077",
+          "minutes": 0.0
+        },
+        {
+          "id": "R078",
+          "minutes": 0.0
+        },
+        {
+          "id": "R079",
+          "minutes": 25.0
+        },
+        {
+          "id": "R080",
+          "minutes": 30.0
+        },
+        {
+          "id": "R081",
+          "minutes": 50.0
+        },
+        {
+          "id": "R082",
+          "minutes": 55.0
+        },
+        {
+          "id": "R083",
+          "minutes": 45.0
+        },
+        {
+          "id": "R084",
+          "minutes": 0.0
+        },
+        {
+          "id": "R085",
+          "minutes": 55.0
+        },
+        {
+          "id": "R086",
+          "minutes": 45.0
+        },
+        {
+          "id": "R087",
+          "minutes": 35.0
+        },
+        {
+          "id": "R088",
+          "minutes": 25.0
+        },
+        {
+          "id": "R089",
+          "minutes": 45.0
+        },
+        {
+          "id": "R090",
+          "minutes": 0.0
+        },
+        {
+          "id": "R101",
+          "minutes": 10.0
+        },
+        {
+          "id": "R102",
+          "minutes": 15.0
+        },
+        {
+          "id": "R103",
+          "minutes": 55.0
+        },
+        {
+          "id": "R104",
+          "minutes": 30.0
+        },
+        {
+          "id": "R105",
+          "minutes": 55.0
+        },
+        {
+          "id": "R106",
+          "minutes": 60.0
+        },
+        {
+          "id": "R107",
+          "minutes": 25.0
+        },
+        {
+          "id": "R108",
+          "minutes": 0.0
+        },
+        {
+          "id": "R109",
+          "minutes": 0.0
+        },
+        {
+          "id": "R110",
+          "minutes": 25.0
+        },
+        {
+          "id": "R111",
+          "minutes": 35.0
+        },
+        {
+          "id": "R112",
+          "minutes": 50.0
+        },
+        {
+          "id": "R113",
+          "minutes": 0.0
+        },
+        {
+          "id": "R114",
+          "minutes": 35.0
+        },
+        {
+          "id": "R115",
+          "minutes": 25.0
+        },
+        {
+          "id": "R116",
+          "minutes": 10.0
+        },
+        {
+          "id": "R117",
+          "minutes": 25.0
+        },
+        {
+          "id": "R118",
+          "minutes": 0.0
+        },
+        {
+          "id": "R119",
+          "minutes": 20.0
+        },
+        {
+          "id": "R120",
+          "minutes": 60.0
+        },
+        {
+          "id": "R137",
+          "minutes": 0.0
+        },
+        {
+          "id": "R138",
+          "minutes": 15.0
+        },
+        {
+          "id": "R139",
+          "minutes": 60.0
+        },
+        {
+          "id": "R140",
+          "minutes": 0.0
+        },
+        {
+          "id": "R141",
+          "minutes": 35.0
+        },
+        {
+          "id": "R142",
+          "minutes": 15.0
+        },
+        {
+          "id": "R143",
+          "minutes": 35.0
+        },
+        {
+          "id": "R144",
+          "minutes": 30.0
+        },
+        {
+          "id": "R145",
+          "minutes": 0.0
+        },
+        {
+          "id": "R146",
+          "minutes": 20.0
+        },
+        {
+          "id": "R147",
+          "minutes": 45.0
+        },
+        {
+          "id": "R148",
+          "minutes": 25.0
+        },
+        {
+          "id": "R149",
+          "minutes": 15.0
+        },
+        {
+          "id": "R150",
+          "minutes": 0.0
+        },
+        {
+          "id": "R151",
+          "minutes": 60.0
+        },
+        {
+          "id": "R152",
+          "minutes": 35.0
+        },
+        {
+          "id": "R153",
+          "minutes": 0.0
+        },
+        {
+          "id": "R154",
+          "minutes": 35.0
+        },
+        {
+          "id": "R155",
+          "minutes": 15.0
+        },
+        {
+          "id": "R156",
+          "minutes": 40.0
+        }
+      ]
+    },
+    "q32_counts": {
+      "可能会": 63,
+      "肯定会": 58,
+      "肯定不会": 11
+    },
+    "concept_trial_intention_q32": {
+      "n": 121,
+      "denominator": 132,
+      "percent": 91.7,
+      "ids": [
+        "R001",
+        "R003",
+        "R005",
+        "R006",
+        "R007",
+        "R008",
+        "R009",
+        "R011",
+        "R012",
+        "R015",
+        "R016",
+        "R017",
+        "R018",
+        "R019",
+        "R020",
+        "R021",
+        "R023",
+        "R024",
+        "R025",
+        "R028",
+        "R029",
+        "R030",
+        "R031",
+        "R032",
+        "R034",
+        "R035",
+        "R036",
+        "R037",
+        "R038",
+        "R041",
+        "R042",
+        "R043",
+        "R044",
+        "R045",
+        "R046",
+        "R047",
+        "R048",
+        "R049",
+        "R050",
+        "R051",
+        "R053",
+        "R054",
+        "R055",
+        "R056",
+        "R057",
+        "R058",
+        "R059",
+        "R060",
+        "R061",
+        "R062",
+        "R063",
+        "R064",
+        "R065",
+        "R066",
+        "R067",
+        "R068",
+        "R069",
+        "R070",
+        "R072",
+        "R073",
+        "R074",
+        "R075",
+        "R076",
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082",
+        "R083",
+        "R084",
+        "R085",
+        "R086",
+        "R087",
+        "R089",
+        "R090",
+        "R101",
+        "R102",
+        "R103",
+        "R104",
+        "R105",
+        "R106",
+        "R107",
+        "R108",
+        "R109",
+        "R110",
+        "R111",
+        "R112",
+        "R113",
+        "R114",
+        "R115",
+        "R117",
+        "R118",
+        "R119",
+        "R120",
+        "R127",
+        "R128",
+        "R129",
+        "R130",
+        "R131",
+        "R132",
+        "R134",
+        "R135",
+        "R136",
+        "R137",
+        "R138",
+        "R139",
+        "R141",
+        "R142",
+        "R143",
+        "R144",
+        "R146",
+        "R147",
+        "R148",
+        "R149",
+        "R151",
+        "R152",
+        "R153",
+        "R154",
+        "R155",
+        "R156"
+      ]
+    },
+    "same_group_status_q6": {
+      "没有": 66,
+      "有": 21,
+      "不确定": 45
+    },
+    "reported_group_size_q8": {
+      "3人": 58,
+      "5人": 24,
+      "4人": 28,
+      "6人": 22
+    },
+    "visitor_type_q11": {
+      "本地居民": 81,
+      "从中国其他城市来访": 50,
+      "从境外来访": 1
+    },
+    "shanghai_report_ids_q9": [
+      "R036",
+      "R128",
+      "R137",
+      "R145"
+    ],
+    "planning_difficulty_3_or_4_q30": 66
+  },
+  "hours_3_to_5_before_explicit_duplicate_filter": 40,
+  "explicit_same_group_ids_excluded": [
+    "R065",
+    "R066"
+  ],
+  "deck_subset": {
+    "responses": 38,
+    "ids": [
+      "R003",
+      "R006",
+      "R008",
+      "R015",
+      "R018",
+      "R020",
+      "R021",
+      "R024",
+      "R025",
+      "R028",
+      "R031",
+      "R032",
+      "R051",
+      "R057",
+      "R058",
+      "R060",
+      "R074",
+      "R076",
+      "R079",
+      "R081",
+      "R086",
+      "R088",
+      "R102",
+      "R105",
+      "R119",
+      "R130",
+      "R131",
+      "R132",
+      "R133",
+      "R134",
+      "R135",
+      "R138",
+      "R143",
+      "R144",
+      "R149",
+      "R152",
+      "R155",
+      "R156"
+    ],
+    "budget_constraint_q17": {
+      "n": 20,
+      "denominator": 38,
+      "percent": 52.6,
+      "ids": [
+        "R018",
+        "R025",
+        "R028",
+        "R031",
+        "R032",
+        "R051",
+        "R057",
+        "R060",
+        "R074",
+        "R076",
+        "R086",
+        "R088",
+        "R102",
+        "R130",
+        "R132",
+        "R133",
+        "R135",
+        "R138",
+        "R149",
+        "R155"
+      ]
+    },
+    "available_time_constraint_q17": {
+      "n": 23,
+      "denominator": 38,
+      "percent": 60.5,
+      "ids": [
+        "R003",
+        "R006",
+        "R008",
+        "R020",
+        "R025",
+        "R028",
+        "R058",
+        "R060",
+        "R074",
+        "R081",
+        "R086",
+        "R088",
+        "R102",
+        "R105",
+        "R119",
+        "R131",
+        "R132",
+        "R134",
+        "R138",
+        "R143",
+        "R144",
+        "R149",
+        "R156"
+      ]
+    },
+    "q17_multiselect_counts": {
+      "可用时间": 23,
+      "兴趣或活动偏好": 24,
+      "步行能力或步行承受度": 20,
+      "地点营业时间": 16,
+      "预算": 20
+    },
+    "preference_conflict_q19": 27,
+    "missed_shared_stop_q21": 16,
+    "coordination_main_cause_q23": {
+      "n": 12,
+      "conditional_denominator": 16
+    },
+    "coordination_minutes_q15": {
+      "numeric_n": 31,
+      "median": 30.0,
+      "zero_count": 2,
+      "response_minutes": [
+        {
+          "id": "R003",
+          "minutes": 30.0
+        },
+        {
+          "id": "R006",
+          "minutes": 30.0
+        },
+        {
+          "id": "R008",
+          "minutes": 30.0
+        },
+        {
+          "id": "R018",
+          "minutes": 15.0
+        },
+        {
+          "id": "R020",
+          "minutes": 55.0
+        },
+        {
+          "id": "R021",
+          "minutes": 55.0
+        },
+        {
+          "id": "R024",
+          "minutes": 55.0
+        },
+        {
+          "id": "R025",
+          "minutes": 0.0
+        },
+        {
+          "id": "R028",
+          "minutes": 20.0
+        },
+        {
+          "id": "R031",
+          "minutes": 60.0
+        },
+        {
+          "id": "R032",
+          "minutes": 10.0
+        },
+        {
+          "id": "R051",
+          "minutes": 10.0
+        },
+        {
+          "id": "R057",
+          "minutes": 60.0
+        },
+        {
+          "id": "R058",
+          "minutes": 30.0
+        },
+        {
+          "id": "R060",
+          "minutes": 0.0
+        },
+        {
+          "id": "R074",
+          "minutes": 20.0
+        },
+        {
+          "id": "R076",
+          "minutes": 20.0
+        },
+        {
+          "id": "R079",
+          "minutes": 25.0
+        },
+        {
+          "id": "R081",
+          "minutes": 50.0
+        },
+        {
+          "id": "R086",
+          "minutes": 45.0
+        },
+        {
+          "id": "R088",
+          "minutes": 25.0
+        },
+        {
+          "id": "R102",
+          "minutes": 15.0
+        },
+        {
+          "id": "R105",
+          "minutes": 55.0
+        },
+        {
+          "id": "R119",
+          "minutes": 20.0
+        },
+        {
+          "id": "R138",
+          "minutes": 15.0
+        },
+        {
+          "id": "R143",
+          "minutes": 35.0
+        },
+        {
+          "id": "R144",
+          "minutes": 30.0
+        },
+        {
+          "id": "R149",
+          "minutes": 15.0
+        },
+        {
+          "id": "R152",
+          "minutes": 35.0
+        },
+        {
+          "id": "R155",
+          "minutes": 15.0
+        },
+        {
+          "id": "R156",
+          "minutes": 40.0
+        }
+      ]
+    },
+    "q32_counts": {
+      "肯定会": 18,
+      "可能会": 18,
+      "肯定不会": 2
+    },
+    "concept_trial_intention_q32": {
+      "n": 36,
+      "denominator": 38,
+      "percent": 94.7,
+      "ids": [
+        "R003",
+        "R006",
+        "R008",
+        "R015",
+        "R018",
+        "R020",
+        "R021",
+        "R024",
+        "R025",
+        "R028",
+        "R031",
+        "R032",
+        "R051",
+        "R057",
+        "R058",
+        "R060",
+        "R074",
+        "R076",
+        "R079",
+        "R081",
+        "R086",
+        "R102",
+        "R105",
+        "R119",
+        "R130",
+        "R131",
+        "R132",
+        "R134",
+        "R135",
+        "R138",
+        "R143",
+        "R144",
+        "R149",
+        "R152",
+        "R155",
+        "R156"
+      ]
+    },
+    "same_group_status_q6": {
+      "没有": 19,
+      "不确定": 19
+    },
+    "reported_group_size_q8": {
+      "5人": 8,
+      "4人": 11,
+      "6人": 5,
+      "3人": 14
+    },
+    "visitor_type_q11": {
+      "本地居民": 24,
+      "从中国其他城市来访": 14
+    },
+    "shanghai_report_ids_q9": [],
+    "planning_difficulty_3_or_4_q30": 17
+  },
+  "main_q10_unknown_n": 30,
+  "main_q10_outside_3_to_5_n": 62,
+  "source_error_strings": [
+    {
+      "id": "R045",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R047",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R052",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R058",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R059",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R066",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R080",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R082",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R101",
+      "question": "Q27",
+      "value": "#VALUE!"
+    },
+    {
+      "id": "R131",
+      "question": "Q27",
+      "value": "#VALUE!"
+    }
+  ],
+  "ppt_reported_claims": [
+    {
+      "slide": 2,
+      "claim": "52.6% consider budget",
+      "team_reported_value": 52.6,
+      "reproduced": true,
+      "calculation": "20 / 38 * 100, Q17 budget option",
+      "meaning": "Important planning constraint; not an actual overspending rate."
+    },
+    {
+      "slide": 2,
+      "claim": "Median time to agree on a plan was 30 minutes",
+      "team_reported_value": 30,
+      "reproduced": true,
+      "calculation": "Median of 31 numeric Q15 estimates in the 38-response subset",
+      "meaning": "Self-reported coordination time, not all preparation time."
+    },
+    {
+      "slide": 2,
+      "claim": "63.5% struggled to estimate time at each stop",
+      "team_reported_value": 63.5,
+      "reproduced": null,
+      "status": "Team-reported final-deck figure; calculation crosswalk not located in supplied workbook",
+      "related_reproducible_statistic": "Q17 available-time constraint is 23/38 = 60.5%, a different construct; do not substitute it for the reported figure."
+    },
+    {
+      "slide": 2,
+      "claim": "One reported visits taking more or less time than expected, particularly at shopping malls",
+      "reproduced": "partial",
+      "mapped_response": "R149/Q31",
+      "meaning": "Original answer mentions sightseeing-duration estimation and actual versus planned play time; venue subtype is not specified."
+    },
+    {
+      "slide": 2,
+      "claim": "18 would definitely try and 18 might, among 38",
+      "reproduced": true,
+      "calculation": "Q32 category counts in the 38-response subset",
+      "meaning": "Intention about a proposed concept, not tested usage, retention or willingness to pay."
+    }
+  ]
+}

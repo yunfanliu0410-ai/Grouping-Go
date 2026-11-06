@@ -1,0 +1,334 @@
+{
+  "source_workbook": "小组半日出游规划经历调查_updated.xlsx",
+  "source_sha256": "b7123e37c85cc89788139f11eba7a0e04449b62123207e4cfe74dec266269cff",
+  "source_sheet": "Sheet1",
+  "source_rows": 156,
+  "source_questions": 34,
+  "public_response_columns": 35,
+  "removed_metadata_columns": [
+    "B submission timestamp",
+    "C completion duration",
+    "D recruitment source",
+    "E source details",
+    "F IP"
+  ],
+  "source_answers_unchanged": true,
+  "public_id_mapping": "R plus zero-padded original export serial; see Response_Index.csv",
+  "questions": [
+    {
+      "question": "Q1",
+      "source_excel_column": "G",
+      "text": "您好！我们是西交利物浦大学ENT303课程（周三下午时段）第11组，调查小组半日出游的规划经历，约需6至10分钟。参加自愿，可跳过选答题或在提交前退出；不要求姓名，回答用编号整理，结果汇总用于课程作业相关项目。最后会询问您对一项拟议工具的看法。  Hello! We are ENT303 Group 11 at XJTLU. This survey asks about planning a half-day group outing and takes about 6 to 10 minutes. Participation is voluntary: skip optional questions or exit before submitting. We do not ask for names. Coded responses will be summarised for coursework. At the end, we ask about a proposed tool.  原始数据最迟于2027年6月30日删除；删除申请联系邮箱：[contact email removed]。 / Raw data will be deleted by 30 June 2027. Deletion requests: [contact email removed]. 1. 阅读以上说明后，您是否同意参加并允许我们在本课程研究中使用带编号的回答? / After reading the information above, do you agree to participate and allow us to use your coded responses for this coursework? "
+    },
+    {
+      "question": "Q2",
+      "source_excel_column": "H",
+      "text": "2. 您是否已满18岁? / Are you aged 18 or over? "
+    },
+    {
+      "question": "Q3",
+      "source_excel_column": "I",
+      "text": "3. 过去六个月内，您是否实际经历过一次3—6人、可用时间约3—5小时的休闲出游? / In the past six months, have you taken a leisure outing with 3–6 people and approximately 3–5 usable hours? "
+    },
+    {
+      "question": "Q4",
+      "source_excel_column": "J",
+      "text": "4. 这次出游是否至少有一个地点或停留点由小组自行选择或商量? / Did your group choose or discuss at least one destination or stop itself? "
+    },
+    {
+      "question": "Q5",
+      "source_excel_column": "K",
+      "text": "5. 您是否参与了这次出游的路线决定? / Were you involved in deciding the route for this outing? "
+    },
+    {
+      "question": "Q6",
+      "source_excel_column": "L",
+      "text": "6. 据您所知，同一出游小组是否已有其他成员填写本次调查? / As far as you know, has another member of the same outing group already completed this survey? "
+    },
+    {
+      "question": "Q7",
+      "source_excel_column": "M",
+      "text": "7. 如果招募人员给了您小组编号，请填写该编号;没有可留空。 / If the recruiter gave your group a code, enter it here. Otherwise, leave this blank. "
+    },
+    {
+      "question": "Q8",
+      "source_excel_column": "N",
+      "text": "8. 这次出游的小组有多少人（包括您自己）? / How many people were in the group, including you? "
+    },
+    {
+      "question": "Q9",
+      "source_excel_column": "O",
+      "text": "9. 这次出游去了哪个城市或区域?大约是哪个月?只需写大概地点和月份，不写姓名或精确日期。 / Which city or area did you visit, and in approximately which month? Do not give names or an exact date. "
+    },
+    {
+      "question": "Q10",
+      "source_excel_column": "P",
+      "text": "10. 当时实际有多少小时可用于这次活动?请写大约小时数;记不清可填“不确定”。 / How many hours were actually available for this outing? Give an approximate number, or write “not sure”. "
+    },
+    {
+      "question": "Q11",
+      "source_excel_column": "Q",
+      "text": "11. 您本人当时属于哪类来访者? / Which description applied to you during this outing? "
+    },
+    {
+      "question": "Q12",
+      "source_excel_column": "R",
+      "text": "12. 这次小组主要用哪些方式确定停留点? / Which methods did your group mainly use to decide the stops? "
+    },
+    {
+      "question": "Q13",
+      "source_excel_column": "S",
+      "text": "13. 哪些成员参与了路线决定? / Who took part in deciding the route? "
+    },
+    {
+      "question": "Q14",
+      "source_excel_column": "T",
+      "text": "14. 从第一次讨论路线到小组接受一个计划，您能否大致估计经过多少分钟?如果一直没达成一致，也请选择相应选项。 / Can you estimate how many minutes passed from the first route discussion until the group accepted a plan? If no agreement was reached, select that option. "
+    },
+    {
+      "question": "Q15",
+      "source_excel_column": "U",
+      "text": "15. 大约经过了多少分钟?请只填非负整数;没有协调耗时可填0。 / Approximately how many minutes passed? Enter a non-negative whole number; enter 0 if no coordination time was spent. "
+    },
+    {
+      "question": "Q16",
+      "source_excel_column": "V",
+      "text": "16. 您是怎样估计上述时间的?如一直未达成一致，可简单说明发生了什么。 / What is your time estimate based on? If no agreement was reached, you may briefly describe what happened. "
+    },
+    {
+      "question": "Q17",
+      "source_excel_column": "W",
+      "text": "17. 规划时，哪些成员间的差异或实际限制比较重要? / Which differences between members or practical constraints mattered during planning? "
+    },
+    {
+      "question": "Q18",
+      "source_excel_column": "X",
+      "text": "18. 其中有没有某位成员不能妥协的限制?请简要说明;也可填“没有”或“不确定”。 / Were any limits non-negotiable for a member? Briefly explain, or write “none” or “not sure”. "
+    },
+    {
+      "question": "Q19",
+      "source_excel_column": "Y",
+      "text": "19. 成员是否曾想去不同的地方或做不同活动? / Did members want to visit different places or do different activities? "
+    },
+    {
+      "question": "Q20",
+      "source_excel_column": "Z",
+      "text": "20. 请简单描述一次分歧，以及小组最后怎样处理;不需要写成员姓名。 / Briefly describe one disagreement and how the group eventually handled it. Do not name members. "
+    },
+    {
+      "question": "Q21",
+      "source_excel_column": "AA",
+      "text": "21. 这次小组是否错过了一个至少两位成员在规划前或规划中明确表示想去的地点? / Did your group miss a stop that at least two members had explicitly wanted to visit before or during planning? "
+    },
+    {
+      "question": "Q22",
+      "source_excel_column": "AB",
+      "text": "22. 错过了哪个地点?您怎么知道至少两位成员都想去?可以写地点类型，并说明他们曾怎样表达兴趣。 / Which stop was missed, and how do you know at least two members wanted to visit it? You may give the type of place and explain how they expressed interest. "
+    },
+    {
+      "question": "Q23",
+      "source_excel_column": "AC",
+      "text": "23. 错过这个地点的最主要原因是什么?请选择一个主要原因。 / What was the main reason this stop was missed? Select one main reason. "
+    },
+    {
+      "question": "Q24",
+      "source_excel_column": "AD",
+      "text": "24. 还有哪些因素导致错过该地点?如选了“其他原因”，也可在此解释。 / What other factors contributed? If you selected “another reason”, you may explain it here. "
+    },
+    {
+      "question": "Q25",
+      "source_excel_column": "AE",
+      "text": "25. 如果小组一开始就达成一致，您觉得仍会错过这个地点吗? / If your group had agreed immediately, do you think you would still have missed this stop? "
+    },
+    {
+      "question": "Q26",
+      "source_excel_column": "AF",
+      "text": "26. 为什么这样判断?请简单说明。 / Why do you think so? Briefly explain. "
+    },
+    {
+      "question": "Q27",
+      "source_excel_column": "AG",
+      "text": "27. 这次出游中，哪些工具或临时办法实际帮上了忙? / Which tools or workarounds actually helped on this outing? "
+    },
+    {
+      "question": "Q28",
+      "source_excel_column": "AH",
+      "text": "28. 小组是否暂时分开活动，之后再会合? / Did the group split up temporarily and meet again later? "
+    },
+    {
+      "question": "Q29",
+      "source_excel_column": "AI",
+      "text": "29. 有哪些办法或工具，下次您还愿意使用? / Which methods or tools would you use again next time? "
+    },
+    {
+      "question": "Q30",
+      "source_excel_column": "AJ",
+      "text": "30. 回头看，这次路线规划给小组带来多大困扰? / Looking back, how much difficulty did route planning cause the group on this outing? "
+    },
+    {
+      "question": "Q31",
+      "source_excel_column": "AK",
+      "text": "31. 您为什么选择这个分数? / Why did you choose this rating? "
+    },
+    {
+      "question": "Q32",
+      "source_excel_column": "AL",
+      "text": "“顺路实验室”是一项拟结合 AI偏好理解与约束优化 的小组行程规划工具，面向3—6人约半日的共同出游。系统拟将每位成员的预算、可用时间、兴趣和步行限制转化为结构化条件，通过规则检查筛除不符合硬性限制的路线，再生成三条可比较的方案，由AI辅助解释各方案如何平衡成员偏好及作出取舍。成员可通过投票或替换地点继续调整。目前项目仍处于概念阶段，技术效果和地点信息的实时准确性尚待验证。“Along the Way Lab” is a proposed group itinerary tool combining AI-assisted preference interpretation and constraint optimisation for 3–6 people planning a half-day outing. The system would structure each member’s budget, available time, interests and walking limits, apply rule-based checks to exclude routes that violate hard constraints, and generate three comparable options. AI would help explain how each option balances preferences and makes trade-offs. Members could refine the plan through voting or replacing stops. The project remains at the concept stage; technical performance and real-time place information have yet to be validated.32. 阅读以上工具概念后，假如未来有这样一款可用工具，下一次类似小组出游时，您有多大可能愿意试用? / After reading the concept above, how likely would you be to try such a tool on a similar group outing if it became available? "
+    },
+    {
+      "question": "Q33",
+      "source_excel_column": "AM",
+      "text": "33. 您愿意或不愿意试用的主要原因是什么? / What is your main reason for wanting or not wanting to try it? "
+    },
+    {
+      "question": "Q34",
+      "source_excel_column": "AN",
+      "text": "34. 您有哪些顾虑，或者什么条件会改变您的想法? / What concerns do you have, or what conditions might change your answer? "
+    }
+  ],
+  "qualitative_evidence": [
+    {
+      "id": "R134",
+      "question": "Q31",
+      "quote": "同行人预算不一样，挑选景点和路线很难达成统一沿途休息、补给点很少，需要反复预留缓冲时间",
+      "source_cell": "AK135"
+    },
+    {
+      "id": "R036",
+      "question": "Q31",
+      "quote": "几个人想法差挺多，路上一直在讨论改路线",
+      "source_cell": "AK37"
+    },
+    {
+      "id": "R050",
+      "question": "Q31",
+      "quote": "中途有人临时想加景点，后面行程全乱了",
+      "source_cell": "AK51"
+    },
+    {
+      "id": "R155",
+      "question": "Q31",
+      "quote": "大家想看的景点分散较远，来回折返浪费不少时间",
+      "source_cell": "AK156"
+    },
+    {
+      "id": "R054",
+      "question": "Q31",
+      "quote": "节假日太堵，路上花的时间比预想久",
+      "source_cell": "AK55"
+    },
+    {
+      "id": "R064",
+      "question": "Q31",
+      "quote": "原计划排太满，后来走得很累",
+      "source_cell": "AK65"
+    },
+    {
+      "id": "R119",
+      "question": "Q31",
+      "quote": "中间有个店临时关门，现找替代花了点时间",
+      "source_cell": "AK120"
+    },
+    {
+      "id": "R149",
+      "question": "Q31",
+      "quote": "景点游览时长预估不准，实际游玩时间和计划差很多",
+      "source_cell": "AK150"
+    }
+  ],
+  "contrary_evidence": [
+    {
+      "id": "R022",
+      "question": "Q33",
+      "quote": "害怕工具给出的方案太死板，失去游玩的随机性",
+      "source_cell": "AM23"
+    },
+    {
+      "id": "R026",
+      "question": "Q33",
+      "quote": "习惯自己手动做攻略，不太信任 AI 规划的路线",
+      "source_cell": "AM27"
+    },
+    {
+      "id": "R071",
+      "question": "Q33",
+      "quote": "更喜欢和同伴一起商量安排，不想由 AI 决定行程",
+      "source_cell": "AM72"
+    },
+    {
+      "id": "R088",
+      "question": "Q33",
+      "quote": "出游主打随性闲逛，不需要严谨的行程规划",
+      "source_cell": "AM89"
+    }
+  ],
+  "quality": {
+    "errors": [
+      {
+        "cell": "AG46",
+        "value": "#VALUE!",
+        "response_id": "R045"
+      },
+      {
+        "cell": "AG48",
+        "value": "#VALUE!",
+        "response_id": "R047"
+      },
+      {
+        "cell": "AG53",
+        "value": "#VALUE!",
+        "response_id": "R052"
+      },
+      {
+        "cell": "AG59",
+        "value": "#VALUE!",
+        "response_id": "R058"
+      },
+      {
+        "cell": "AG60",
+        "value": "#VALUE!",
+        "response_id": "R059"
+      },
+      {
+        "cell": "AG67",
+        "value": "#VALUE!",
+        "response_id": "R066"
+      },
+      {
+        "cell": "AG81",
+        "value": "#VALUE!",
+        "response_id": "R080"
+      },
+      {
+        "cell": "AG83",
+        "value": "#VALUE!",
+        "response_id": "R082"
+      },
+      {
+        "cell": "AG102",
+        "value": "#VALUE!",
+        "response_id": "R101"
+      },
+      {
+        "cell": "AG132",
+        "value": "#VALUE!",
+        "response_id": "R131"
+      }
+    ],
+    "duplicate_submission_ids": [],
+    "group_code_counts_main": {
+      "(空)": 11,
+      "11": 1,
+      "没有 / No": 96,
+      "不确定 / Not sure": 24
+    },
+    "limitations": [
+      "38条中19条不确定同组是否已有答卷，不得称38个独立小组",
+      "Q7多为没有/不确定，不支持去重认证",
+      "Q9只记月份，不能自动认定年份",
+      "38条子集无上海经历，132条主体只有4条上海经历，不能解释成上海市场需求率",
+      "概念试用意愿不是产品测试、付费意愿或付费承诺",
+      "Q27的10个#VALUE!错误未修改，不用于主要论点"
+    ]
+  }
+}

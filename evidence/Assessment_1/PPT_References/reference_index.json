@@ -1,0 +1,253 @@
+{
+  "title": "Final PPT references in citation order",
+  "accessed": "2026-11-07",
+  "deck": "Grouping-go_Final.pptx",
+  "deck_sha256": "b36882241cca4a3808f9dd88ad061d4e796239829e6dd585c98a9c98230ce82c",
+  "count": 10,
+  "references": [
+    {
+      "number": 1,
+      "file": "01_Shanghai_Tourism_2025.md",
+      "title": "Shanghai visitor statistics and market-size assumptions / 上海游客统计与市场规模假设",
+      "slide": 2,
+      "ppt_claim": "171.5 million visits; up 11.9% year on year. Half-day group trip estimate: about 10.72 million group outings a year.",
+      "sources": [
+        {
+          "title": "2025年上海市旅游发展主要统计数据",
+          "publisher": "Shanghai Municipal Administration of Culture and Tourism",
+          "url": "https://whlyj.sh.gov.cn/tjzl/20260429/1b46304182244ba4a56dc30fbb7c7b60.html",
+          "publication_or_update_date": "2026-04-29",
+          "accessed": "2026-11-07",
+          "material_checked": "Published page"
+        }
+      ],
+      "support": "The official table reports 17148.69万人次 of visitors from other Chinese provinces and municipalities in 2025, equivalent to 171,486,900 person-visits, an increase of 11.9%. The slide rounds this to 171.5 million.",
+      "adaptation": "The half-day share (25%) and four people per group are project assumptions. Using the unrounded official figure: 171,486,900 × 25% ÷ 4 = 10,717,931.25, or approximately 10.72 million group-outing equivalents per year. This is an illustrative scenario, not an observed number of eligible groups.",
+      "limits": "The unit is visits, not unique people. The figure does not establish the number of 3–6-person groups, half-day shopping-district outings, users the project can reach, or willingness to pay. The assumed share should be tested before using this as a serviceable market estimate.",
+      "status": "Published market context verified; the derived group-outing estimate is an unvalidated project scenario.",
+      "discrepancy": "Keep the two assumptions visible beside the estimate; do not attribute them to the Shanghai statistics."
+    },
+    {
+      "number": 2,
+      "file": "02_Meituan_Xiaotuan.md",
+      "title": "Meituan Xiaotuan capabilities / 美团小团的现有能力",
+      "slide": 2,
+      "ppt_claim": "Meituan: AI suggestions, bookings and orders. Gap: the group still has to check the full trip against each person's budget.",
+      "sources": [
+        {
+          "title": "美團AI「小團」升級：把「幫我找找」變成「幫我辦了」",
+          "publisher": "Meituan official news page; article attributed to 环球网",
+          "url": "https://www.meituan.com/zh-HK/news/NN260727198008607?source=relativeNews",
+          "publication_or_update_date": "2026-07-27",
+          "accessed": "2026-11-07",
+          "material_checked": "Published page"
+        }
+      ],
+      "support": "The official product article describes AI search and comparison, recommendations, and execution of local-service tasks such as orders, taxi requests and bookings after user confirmation. It supports the capability summary in the slide.",
+      "adaptation": "Grouping-go proposes a shared itinerary in which each member enters limits and confirms a plan. The intended comparison is whether that workflow helps groups check a complete outing against all members’ limits.",
+      "limits": "A product introduction cannot establish that Meituan lacks every form of trip planning or group coordination. No controlled comparison with Meituan has been completed. The slide’s gap is a project research question, not a verified statement that the competitor cannot provide the function.",
+      "status": "Vendor-described capabilities verified; the proposed advantage remains to be tested.",
+      "discrepancy": "Avoid expanding the gap into the absolute claim that Meituan only supports individual shops or ordering."
+    },
+    {
+      "number": 3,
+      "file": "03_Dianping.md",
+      "title": "Dianping venue information and guides / 大众点评的地点信息与攻略",
+      "slide": 2,
+      "ppt_claim": "Dianping: venue reviews, guides and deals. Gap: after reading reviews and guides, the group still has to turn its list of places into a route.",
+      "sources": [
+        {
+          "title": "大众点评－吃喝玩乐指南: developer description",
+          "publisher": "Hanhai Information Technology (Shanghai) Co., Ltd., published through Apple App Store",
+          "url": "https://apps.apple.com/cn/app/id351091731",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Developer product description; user reviews and ratings were not used"
+        }
+      ],
+      "support": "The developer description covers venue information, reviews and photographs, travel guides and notes, deals, payment and booking-related services. These support the slide’s summary of place discovery and purchasing functions.",
+      "adaptation": "Our proposed workflow compares a complete multi-stop route with group-level budget and timing checks. That is the specific workflow the team plans to compare against selecting places from existing reviews and guides.",
+      "limits": "The description does not prove that Dianping has no itinerary or collaboration features. The claimed coordination gap should be checked in an actual task comparison and kept narrower than a claim about everything the app can do.",
+      "status": "Developer-described capabilities verified; project differentiation is a proposed comparison.",
+      "discrepancy": "Do not describe Dianping as providing only single-shop information: its own description also includes guides and travel content."
+    },
+    {
+      "number": 4,
+      "file": "04_Douyin_Local_Life.md",
+      "title": "Douyin local-life services; PPT label correction / 抖音生活服务与PPT名称核对",
+      "slide": 2,
+      "ppt_claim": "The slide labels this competitor “Tiktok”: find places, buy and redeem deals; the group must still agree dwell times and when to return.",
+      "sources": [
+        {
+          "title": "生活服务开放平台介绍",
+          "publisher": "Douyin Open Platform",
+          "url": "https://partner.open-douyin.com/docs/resource/zh-CN/local-life/connect/life-open-platform/",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Published page"
+        }
+      ],
+      "support": "The official Douyin documentation describes discovery through short videos, livestreams and place-of-interest pages, online purchase of local-service deals or vouchers, and offline redemption. It covers dining, accommodation and other local-life service connections.",
+      "adaptation": "The intended competitor in this Shanghai-focused project is Douyin (抖音). Grouping-go proposes agreeing on the timing of a multi-stop outing rather than only discovering or purchasing an individual offer.",
+      "limits": "Douyin and the international TikTok product must not be treated as interchangeable. This source verifies Douyin’s mainland-China local-life services; it does not verify the same feature set for TikTok. It also does not prove that all group timing or route features are absent from Douyin.",
+      "status": "Douyin platform capabilities verified; timing-related differentiation remains a proposed test.",
+      "discrepancy": "The final PPT currently says “Tiktok”. The accurate label for this source is “Douyin (抖音)”. The reference card records the mismatch without changing the submitted slide."
+    },
+    {
+      "number": 5,
+      "file": "05_Structured_LLM_Output.md",
+      "title": "Structured LLM output with JSON Schema / 使用JSON Schema约束大模型输出",
+      "slide": 4,
+      "ppt_claim": "Structured LLM output (JSON Schema): turn each person’s budget, return deadline and interests into rules the planner can check.",
+      "sources": [
+        {
+          "title": "Structured model outputs",
+          "publisher": "OpenAI API documentation",
+          "url": "https://developers.openai.com/api/docs/guides/structured-outputs",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Overview, structured extraction examples, supported-schema and error-handling guidance"
+        }
+      ],
+      "support": "The documentation explains how a supported JSON Schema constrains the structure of model output and how unstructured input can be converted into typed fields. This supports structured extraction as a technical component.",
+      "adaptation": "The proposed schema would contain budget in CNY, latest return time, interests and walking limits for each member. After extraction, the app would show the values for member confirmation and run deterministic checks before route optimization.",
+      "limits": "Schema conformity does not establish that a budget, time or preference was understood correctly. Units, missing values, refusals and invalid or contradictory inputs require explicit handling. The documentation does not show that this project has integrated or tested an LLM.",
+      "status": "Proposed integration. The existing offline prototype accepts structured form inputs; it does not call an LLM.",
+      "discrepancy": "Slide 4 is a proposed technical architecture. Its present-tense functional descriptions should not be read as evidence of an implemented AI service."
+    },
+    {
+      "number": 6,
+      "file": "06_RAG.md",
+      "title": "Retrieval-augmented generation and venue filtering / 检索增强生成与地点筛选",
+      "slide": 4,
+      "ppt_claim": "RAG and a vector index: filter venues by price, opening hours and distance to find stops that fit the trip.",
+      "sources": [
+        {
+          "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+          "publisher": "Lewis et al.; Advances in Neural Information Processing Systems 33",
+          "url": "https://papers.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+          "publication_or_update_date": "2020",
+          "accessed": "2026-11-07",
+          "material_checked": "Original conference abstract and bibliographic record"
+        }
+      ],
+      "support": "The original RAG paper combines a language model with retrieval from an external document index. It supports the idea of grounding generated answers in retrieved information rather than relying only on model parameters.",
+      "adaptation": "For Grouping-go, a vector index could retrieve relevant venue descriptions. Price, hours, distance and freshness would be stored as structured attributes and checked separately before retrieved venue information is passed to the planner.",
+      "limits": "The paper does not establish that semantic vector retrieval enforces numeric budgets, opening-hour intervals or travel-distance limits. Those need explicit filters and route feasibility checks. It also does not validate our venue dataset or guarantee current opening hours and prices.",
+      "status": "Proposed RAG and vector-index integration. The offline prototype uses a local venue dataset and JavaScript rules.",
+      "discrepancy": "The slide compresses retrieval and feasibility checking into one line. RAG supplies relevant context; structured filtering and the constraint solver are the components intended to enforce limits."
+    },
+    {
+      "number": 7,
+      "file": "07_CP_SAT_and_Fairness.md",
+      "title": "CP-SAT route constraints and a proposed fairness objective / CP-SAT约束求解与公平性目标",
+      "slide": 4,
+      "ppt_claim": "OR-Tools CP-SAT with max-min fairness: reject routes over budget or time and account for the member whose needs are hardest to meet.",
+      "sources": [
+        {
+          "title": "CP-SAT Solver",
+          "publisher": "Google OR-Tools documentation",
+          "url": "https://developers.google.com/optimization/cp/cp_solver/",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Integer constraint requirements and solver result statuses"
+        }
+      ],
+      "support": "Google’s documentation describes an integer constraint solver with statuses that distinguish optimal, feasible, infeasible, invalid and unresolved models. This supports explicitly modelling and solving feasibility constraints.",
+      "adaptation": "The proposed model would encode route choice, each member’s budget, travel and dwell times, opening hours and return deadlines. Max-min fairness is our modelling choice: define a comparable utility for each member, constrain a variable to be no larger than each utility, then maximize that minimum. Secondary objectives could reduce travel time or improve average utility.",
+      "limits": "Max-min group satisfaction is not a ready-made CP-SAT feature. Utility definitions and weights require testing. A timeout or UNKNOWN result is not proof of infeasibility. Integer scaling and accurate input data are required; the solver does not ensure real-world prices or times are correct.",
+      "status": "Proposed solver architecture. The existing offline prototype checks candidate routes in JavaScript; it does not use OR-Tools.",
+      "discrepancy": "The citation supports the solver family, not a validated claim that our fairness objective improves group satisfaction."
+    },
+    {
+      "number": 8,
+      "file": "08_Rolling_Horizon_and_Versions.md",
+      "title": "Rolling-horizon replanning and route versions / 滚动重规划与路线版本",
+      "slide": 4,
+      "ppt_claim": "Rolling-horizon replanning and route version numbers: after a delay, replan only the remaining stops and ask everyone to confirm the new route.",
+      "sources": [
+        {
+          "title": "Receding Horizon Control: Automatic Generation of High-Speed Solvers",
+          "publisher": "J. Mattingley, Y. Wang and S. Boyd; IEEE Control Systems Magazine 31(3), 52–65",
+          "url": "https://web.stanford.edu/~boyd/papers/code_gen_rhc.html",
+          "publication_or_update_date": "2011-06",
+          "accessed": "2026-11-07",
+          "material_checked": "Original author’s publication page and method summary"
+        },
+        {
+          "title": "Grouping-go offline prototype: replan handler, revision and confirmation state",
+          "publisher": "Grouping-go project source code",
+          "url": "Prototype_Source.js",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Local source checked: save/invalidate around lines 188–190 and replan handler around lines 250–258"
+        }
+      ],
+      "support": "The academic source describes repeatedly solving a constrained optimization over a moving future horizon. This supplies the method background for replanning from the current state rather than planning once at departure. Our source code separately demonstrates completed-stop preservation, route revision increments and clearing previous confirmations after a manual change.",
+      "adaptation": "A future online solver would freeze completed stops, update remaining time and available venues, and solve only the remaining trip. Route-version checks and member reconfirmation are project coordination mechanisms; they are not results reported by the control paper.",
+      "limits": "The cited control method is general, not an evaluated group-tourism system. Our current prototype is event-triggered local JavaScript replanning rather than a continuously running cloud optimization service. The literature source does not establish our route-version or multi-user synchronization behavior.",
+      "status": "Manual remaining-trip replanning and local revision/reconfirmation logic exist in the offline demo. The proposed rolling solver and cross-device synchronization have not been implemented or tested.",
+      "discrepancy": "The earlier vehicle-routing-with-time-windows example was insufficient evidence for rolling-horizon control; it has been replaced here with an original method source."
+    },
+    {
+      "number": 9,
+      "file": "09_LinUCB_Ads.md",
+      "title": "LinUCB for proposed contextual ad ranking / 使用LinUCB进行情境广告排序的设想",
+      "slide": 4,
+      "ppt_claim": "Contextual multi-armed bandit (LinUCB): screen businesses, then rank them by route fit, group interests and price.",
+      "sources": [
+        {
+          "title": "A Contextual-Bandit Approach to Personalized News Article Recommendation",
+          "publisher": "L. Li, W. Chu, J. Langford and R. E. Schapire; WWW 2010",
+          "url": "https://www.schapire.net/papers/www10.pdf",
+          "publication_or_update_date": "2010",
+          "accessed": "2026-11-07",
+          "material_checked": "Original research paper"
+        }
+      ],
+      "support": "The paper presents LinUCB as a contextual-bandit method that selects recommendations using contextual features and learns from observed feedback while balancing exploration and exploitation. Its evaluated application is news recommendation.",
+      "adaptation": "Grouping-go proposes applying this ranking method to eligible paid placements. First apply hard route, budget, timing and distance rules; then rank remaining businesses using group/route features and feedback from valid ad exposures. Paid content would carry an Ad label.",
+      "limits": "The paper does not prove improved advertising revenue or route quality for this project. Survey responses are not the impression-and-response logs required for online learning. A rules-based cold start, appropriate consent, exposure logging and offline/online evaluation would be needed before adaptive ranking.",
+      "status": "Proposed ad-ranking method. Current ad placements are static demonstrations; no bandit model is trained or deployed.",
+      "discrepancy": "LinUCB would rank already-eligible ads. It must not be described as the component that enforces all route limits or as an implemented revenue engine."
+    },
+    {
+      "number": 10,
+      "file": "10_Mini_Program_Cloud_Sync.md",
+      "title": "Mini-program cloud functions and change listeners / 小程序云函数与数据变更监听",
+      "slide": 4,
+      "ppt_claim": "Mini program, cloud functions and database listeners: keep everyone’s limits, route version and each person’s confirmation in sync.",
+      "sources": [
+        {
+          "title": "小程序端 SDK",
+          "publisher": "Tencent Cloud CloudBase documentation",
+          "url": "https://cloud.tencent.com/document/product/876/19385",
+          "publication_or_update_date": "2026-10-28",
+          "accessed": "2026-11-07",
+          "material_checked": "WeChat mini-program SDK service access"
+        },
+        {
+          "title": "云函数",
+          "publisher": "Tencent Cloud CloudBase documentation",
+          "url": "https://cloud.tencent.com/document/product/876/46899",
+          "publication_or_update_date": "2026-04-21",
+          "accessed": "2026-11-07",
+          "material_checked": "Cloud function overview, SDK invocation and service integration"
+        },
+        {
+          "title": "实时推送",
+          "publisher": "CloudBase documentation",
+          "url": "https://docs.cloudbase.net/database/realtime",
+          "publication_or_update_date": null,
+          "accessed": "2026-11-07",
+          "material_checked": "Document-database watch/onChange usage and database-mode distinction"
+        }
+      ],
+      "support": "Official documentation supports access to CloudBase services from WeChat mini programs, execution of server-side logic through cloud functions, and notification of document changes through database listeners. In traditional document-database mode, watch() provides change callbacks; the current documentation distinguishes PostgreSQL mode, which uses app.realtime().",
+      "adaptation": "The proposed group document would store member limits, a route version and per-member confirmations. Cloud functions would validate authorized updates and reject stale versions; listeners would refresh each member’s view. Editing a route would clear confirmations and require approval of the new version.",
+      "limits": "Listeners notify clients of changes; they do not themselves implement access control, atomic consensus or conflict handling. The database mode and matching API must be selected deliberately. No cross-device synchronization test has yet been completed for Grouping-go.",
+      "status": "Proposed mini-program/cloud deployment. The current offline demo stores state in one browser’s localStorage and simulates members locally.",
+      "discrepancy": "The source verifies platform capabilities, not an existing cloud backend for the project."
+    }
+  ]
+}

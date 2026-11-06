@@ -1,0 +1,113 @@
+﻿claim_or_input,ID,question,source_cell
+Budget option 20/38,R018,Q17,W19
+Budget option 20/38,R025,Q17,W26
+Budget option 20/38,R028,Q17,W29
+Budget option 20/38,R031,Q17,W32
+Budget option 20/38,R032,Q17,W33
+Budget option 20/38,R051,Q17,W52
+Budget option 20/38,R057,Q17,W58
+Budget option 20/38,R060,Q17,W61
+Budget option 20/38,R074,Q17,W75
+Budget option 20/38,R076,Q17,W77
+Budget option 20/38,R086,Q17,W87
+Budget option 20/38,R088,Q17,W89
+Budget option 20/38,R102,Q17,W103
+Budget option 20/38,R130,Q17,W131
+Budget option 20/38,R132,Q17,W133
+Budget option 20/38,R133,Q17,W134
+Budget option 20/38,R135,Q17,W136
+Budget option 20/38,R138,Q17,W139
+Budget option 20/38,R149,Q17,W150
+Budget option 20/38,R155,Q17,W156
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R003,Q17,W4
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R006,Q17,W7
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R008,Q17,W9
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R020,Q17,W21
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R025,Q17,W26
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R028,Q17,W29
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R058,Q17,W59
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R060,Q17,W61
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R074,Q17,W75
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R081,Q17,W82
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R086,Q17,W87
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R088,Q17,W89
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R102,Q17,W103
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R105,Q17,W106
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R119,Q17,W120
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R131,Q17,W132
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R132,Q17,W133
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R134,Q17,W135
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R138,Q17,W139
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R143,Q17,W144
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R144,Q17,W145
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R149,Q17,W150
+"Available-time option 23/38 (related statistic, not the PPT 63.5%)",R156,Q17,W157
+Coordination median: 31 numeric inputs,R003,Q15,U4
+Coordination median: 31 numeric inputs,R006,Q15,U7
+Coordination median: 31 numeric inputs,R008,Q15,U9
+Coordination median: 31 numeric inputs,R018,Q15,U19
+Coordination median: 31 numeric inputs,R020,Q15,U21
+Coordination median: 31 numeric inputs,R021,Q15,U22
+Coordination median: 31 numeric inputs,R024,Q15,U25
+Coordination median: 31 numeric inputs,R025,Q15,U26
+Coordination median: 31 numeric inputs,R028,Q15,U29
+Coordination median: 31 numeric inputs,R031,Q15,U32
+Coordination median: 31 numeric inputs,R032,Q15,U33
+Coordination median: 31 numeric inputs,R051,Q15,U52
+Coordination median: 31 numeric inputs,R057,Q15,U58
+Coordination median: 31 numeric inputs,R058,Q15,U59
+Coordination median: 31 numeric inputs,R060,Q15,U61
+Coordination median: 31 numeric inputs,R074,Q15,U75
+Coordination median: 31 numeric inputs,R076,Q15,U77
+Coordination median: 31 numeric inputs,R079,Q15,U80
+Coordination median: 31 numeric inputs,R081,Q15,U82
+Coordination median: 31 numeric inputs,R086,Q15,U87
+Coordination median: 31 numeric inputs,R088,Q15,U89
+Coordination median: 31 numeric inputs,R102,Q15,U103
+Coordination median: 31 numeric inputs,R105,Q15,U106
+Coordination median: 31 numeric inputs,R119,Q15,U120
+Coordination median: 31 numeric inputs,R138,Q15,U139
+Coordination median: 31 numeric inputs,R143,Q15,U144
+Coordination median: 31 numeric inputs,R144,Q15,U145
+Coordination median: 31 numeric inputs,R149,Q15,U150
+Coordination median: 31 numeric inputs,R152,Q15,U153
+Coordination median: 31 numeric inputs,R155,Q15,U156
+Coordination median: 31 numeric inputs,R156,Q15,U157
+Trial-intention categories: all 38,R003,Q32,AL4
+Trial-intention categories: all 38,R006,Q32,AL7
+Trial-intention categories: all 38,R008,Q32,AL9
+Trial-intention categories: all 38,R015,Q32,AL16
+Trial-intention categories: all 38,R018,Q32,AL19
+Trial-intention categories: all 38,R020,Q32,AL21
+Trial-intention categories: all 38,R021,Q32,AL22
+Trial-intention categories: all 38,R024,Q32,AL25
+Trial-intention categories: all 38,R025,Q32,AL26
+Trial-intention categories: all 38,R028,Q32,AL29
+Trial-intention categories: all 38,R031,Q32,AL32
+Trial-intention categories: all 38,R032,Q32,AL33
+Trial-intention categories: all 38,R051,Q32,AL52
+Trial-intention categories: all 38,R057,Q32,AL58
+Trial-intention categories: all 38,R058,Q32,AL59
+Trial-intention categories: all 38,R060,Q32,AL61
+Trial-intention categories: all 38,R074,Q32,AL75
+Trial-intention categories: all 38,R076,Q32,AL77
+Trial-intention categories: all 38,R079,Q32,AL80
+Trial-intention categories: all 38,R081,Q32,AL82
+Trial-intention categories: all 38,R086,Q32,AL87
+Trial-intention categories: all 38,R088,Q32,AL89
+Trial-intention categories: all 38,R102,Q32,AL103
+Trial-intention categories: all 38,R105,Q32,AL106
+Trial-intention categories: all 38,R119,Q32,AL120
+Trial-intention categories: all 38,R130,Q32,AL131
+Trial-intention categories: all 38,R131,Q32,AL132
+Trial-intention categories: all 38,R132,Q32,AL133
+Trial-intention categories: all 38,R133,Q32,AL134
+Trial-intention categories: all 38,R134,Q32,AL135
+Trial-intention categories: all 38,R135,Q32,AL136
+Trial-intention categories: all 38,R138,Q32,AL139
+Trial-intention categories: all 38,R143,Q32,AL144
+Trial-intention categories: all 38,R144,Q32,AL145
+Trial-intention categories: all 38,R149,Q32,AL150
+Trial-intention categories: all 38,R152,Q32,AL153
+Trial-intention categories: all 38,R155,Q32,AL156
+Trial-intention categories: all 38,R156,Q32,AL157

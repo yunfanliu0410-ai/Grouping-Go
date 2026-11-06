@@ -1,0 +1,18 @@
+Section,Metric,Symbol,Value,Unit,Calculation,Evidence_status,Comment
+INPUT,Valid display views,V,200000,views/month,,Unvalidated scenario,Not observed traffic
+INPUT,Display price,p,0.3,CNY/valid view,,Unvalidated final-deck price,Equivalent CPM 300; not a market quote
+OUTPUT,Display ad revenue,A,60000.0,CNY/month,V*p,Scenario arithmetic,Not realised revenue
+INPUT,Sponsored listings,L,10,listings/month,,Unvalidated scenario,No contracts supplied
+INPUT,Sponsored listing price,q,500,CNY/listing/month,,Unvalidated scenario,Not a merchant quotation
+OUTPUT,Sponsored revenue,S,5000,CNY/month,L*q,Scenario arithmetic,Not realised revenue
+OUTPUT,Total revenue,R,65000.0,CNY/month,A+S,Scenario arithmetic,Only the two final-deck streams
+INPUT,Technical staff,N,2,staff,,Scenario staffing,Not payroll evidence
+INPUT,Monthly hours per staff,H,50,hours/staff/month,,Scenario workload,Not signed timesheets
+INPUT,Hourly rate,w,50,CNY/hour,,Scenario rate,Not payroll evidence
+OUTPUT,Stated technical cost,T,5000,CNY/month,N*H*w,Scenario arithmetic,Other costs not included
+OUTPUT,Remainder after stated technical cost,B,60000,CNY/month,R-T,Partial-cost scenario,Not net profit or full operating surplus
+RECONCILIATION,Final price as CPM,PPT_CPM,300.0,CNY/1000 valid views,p*1000,Final-deck conversion,Ten times prototype example
+RECONCILIATION,Prototype example CPM,DEMO_CPM,30,CNY/1000 valid impressions,,Prototype illustrative rate,Source JS lines 98-99; not actual price
+RECONCILIATION,Prototype example per impression,DEMO_p,0.03,CNY/impression,DEMO_CPM/1000,Prototype example conversion,Not final-deck p
+RECONCILIATION,200k views at prototype example rate,DEMO_A,6000.0,CNY/month,V*DEMO_CPM/1000,Historical example only,Excluded from final-deck total
+RECONCILIATION,Final-to-prototype price ratio,RATE_RATIO,10.0,times,PPT_CPM/DEMO_CPM,Arithmetic reconciliation,No validated reason for change supplied
