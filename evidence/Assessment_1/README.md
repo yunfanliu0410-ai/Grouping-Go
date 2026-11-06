@@ -1,6 +1,6 @@
 # Assessment 1 — final presentation evidence / 任务一最终版证据库
 
-**Grouping-Go · ENT303TC Group 11 · Updated 7 November 2026**
+**Grouping-Go · ENT303TC Group 11 · Updated 6 November 2026**
 
 This page is the evidence destination linked from slide 6 of `Grouping-go_Final.pptx`. The entry URL is unchanged:
 
